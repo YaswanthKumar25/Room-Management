@@ -88,5 +88,3 @@ Additionally:
 
 ## 📸 **Screenshots**
 
-> Add your screenshots in a folder named `screenshots/` and reference them here:
-
