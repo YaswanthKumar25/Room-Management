@@ -86,5 +86,32 @@ Additionally:
 
 ---
 
-## 📸 **Screenshots**
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+<p align="center">
+  <img src="screenshots/login.jpg" alt="Login Page" width="800">
+</p>
+
+### ✍️ Register Page
+<p align="center">
+  <img src="screenshots/register.jpg" alt="Register Page" width="800">
+</p>
+
+### 🏠 Room Dashboard
+<p align="center">
+  <img src="screenshots/dashboard.jpg" alt="Room Dashboard" width="800">
+</p>
+
+### 👑 Owner Dashboard
+<p align="center">
+  <img src="screenshots/owner_dashboard.jpg" alt="Owner Dashboard" width="800">
+</p>
+
+### 🛠 Manage Service
+<p align="center">
+  <img src="screenshots/manage_service.jpg" alt="Manage Service" width="800">
+</p>
 
