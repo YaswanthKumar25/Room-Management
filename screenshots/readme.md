@@ -1,18 +1,16 @@
 This folder contains project screenshots.
-### 🔐 Login Page
-![Login](screenshots/login.png)
 
-### ✍️ Register Page
-![Register](screenshots/register.png)
+## 🔐 Login Page
+![Login](login.jpg)
 
-### 🏠 Room Dashboard
-![Dashboard](screenshots/dashboard.png)
+## ✍️ Register Page
+![Register](register.jpg)
 
-### 👑 Owner Dashboard
-![Owner Dashboard](screenshots/owner_dashboard.png)
+## 🏠 Room Dashboard
+![Dashboard](dashboard.jpg)
 
-### 🛠 Manage Service
-![Manage Service](screenshots/manage_service.png)
+## 👑 Owner Dashboard
+![Owner Dashboard](owner_dashboard.jpg)
 
-### ❓ Forgot Password
-![Forgot Password](screenshots/forgot_password.png)
+## 🛠 Manage Service
+![Manage Service](manage_service.jpg)
