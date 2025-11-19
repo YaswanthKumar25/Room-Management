@@ -1,6 +1,6 @@
 This folder contains project screenshots.
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpg)
 
 ### ✍️ Register Page
 ![Register](screenshots/register.png)
